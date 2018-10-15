@@ -1,0 +1,14 @@
+body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  cursor: none;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background: url('../assets/windows.jpg') no-repeat;
+  background-size: cover;
+}
